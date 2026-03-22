@@ -4,10 +4,6 @@
 
 My passion is understanding and manipulating systems from the ground up, from the logic gates of a CPU to the high-level abstractions of a web application.
 
-[![GitHub followers](https://img.shields.io/github/followers/JJTecca?label=Follow&style=social)](https://github.com/JJTecca)
-[![GitHub stars](https://img.shields.io/github/stars/JJTecca?affiliations=OWNER&style=social)](https://github.com/JJTecca)
-[![Profile views](https://komarev.com/ghpvc/?username=JJTecca&color=blueviolet&style=flat-square)](https://github.com/JJTecca)
-
 ---
 
 ## 🚀 What I'm Up To
