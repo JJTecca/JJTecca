@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cristi M (JJTecca)
+# 👋 Hi, I'm JJTecca
 
 **Low-Level Enthusiast & Full-Stack Developer**
 
